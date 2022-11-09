@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\bin\Debug\net6.0\TaskFive.exe
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\bin\Debug\net6.0\TaskFive.deps.json
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\bin\Debug\net6.0\TaskFive.runtimeconfig.json
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\bin\Debug\net6.0\TaskFive.dll
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\bin\Debug\net6.0\TaskFive.pdb
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.dll
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\refint\TaskFive.dll
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.pdb
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\TaskFive.genruntimeconfig.cache
+C:\Users\HP\Desktop\Training\TaskFive\TaskFive\obj\Debug\net6.0\ref\TaskFive.dll

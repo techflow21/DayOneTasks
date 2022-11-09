@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\bin\Debug\net6.0\TaskTwob.exe
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\bin\Debug\net6.0\TaskTwob.deps.json
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\bin\Debug\net6.0\TaskTwob.runtimeconfig.json
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\bin\Debug\net6.0\TaskTwob.dll
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\bin\Debug\net6.0\TaskTwob.pdb
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.dll
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\refint\TaskTwob.dll
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.pdb
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\TaskTwob.genruntimeconfig.cache
+C:\Users\HP\Desktop\Training\TaskTwob\TaskTwob\obj\Debug\net6.0\ref\TaskTwob.dll

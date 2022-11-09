@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\bin\Debug\net6.0\TaskSix.exe
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\bin\Debug\net6.0\TaskSix.deps.json
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\bin\Debug\net6.0\TaskSix.runtimeconfig.json
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\bin\Debug\net6.0\TaskSix.dll
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\bin\Debug\net6.0\TaskSix.pdb
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.dll
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\refint\TaskSix.dll
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.pdb
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\TaskSix.genruntimeconfig.cache
+C:\Users\HP\Desktop\Training\TaskSix\TaskSix\obj\Debug\net6.0\ref\TaskSix.dll
